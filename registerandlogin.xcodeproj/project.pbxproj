@@ -13,6 +13,7 @@
 		204E89DB1F5A8D7D0033AE61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 204E89D91F5A8D7D0033AE61 /* Main.storyboard */; };
 		204E89DD1F5A8D7D0033AE61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 204E89DC1F5A8D7D0033AE61 /* Assets.xcassets */; };
 		204E89E01F5A8D7D0033AE61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 204E89DE1F5A8D7D0033AE61 /* LaunchScreen.storyboard */; };
+		204E89E81F5AA5F50033AE61 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204E89E71F5AA5F50033AE61 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		204E89DC1F5A8D7D0033AE61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		204E89DF1F5A8D7D0033AE61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		204E89E11F5A8D7D0033AE61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		204E89E71F5AA5F50033AE61 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				204E89D51F5A8D7D0033AE61 /* FirstViewController.swift */,
 				204E89D71F5A8D7D0033AE61 /* SecondViewController.swift */,
 				204E89D91F5A8D7D0033AE61 /* Main.storyboard */,
+				204E89E71F5AA5F50033AE61 /* HomeViewController.swift */,
 				204E89DC1F5A8D7D0033AE61 /* Assets.xcassets */,
 				204E89DE1F5A8D7D0033AE61 /* LaunchScreen.storyboard */,
 				204E89E11F5A8D7D0033AE61 /* Info.plist */,
@@ -142,6 +145,7 @@
 				204E89D81F5A8D7D0033AE61 /* SecondViewController.swift in Sources */,
 				204E89D41F5A8D7D0033AE61 /* AppDelegate.swift in Sources */,
 				204E89D61F5A8D7D0033AE61 /* FirstViewController.swift in Sources */,
+				204E89E81F5AA5F50033AE61 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
